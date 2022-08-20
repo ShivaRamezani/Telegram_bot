@@ -1,16 +1,10 @@
 # Telegram_bot
 
 ## How to Run:
-First add 'PYTHONPATH' environment variable in repository root directory by running:
+First add ```PYTHONPATH``` environment variable in repository root directory by running:
 
-'''
-export PYTHONPATH=${PWD}
-
-'''
+```export PYTHONPATH=${PWD}```
 
 Then run:
 
-'''
-python src/main.py
-
-'''
+```python src/main.py```
